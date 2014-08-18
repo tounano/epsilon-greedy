@@ -1,0 +1,28 @@
+{
+  "name": "epsilon-greedy",
+  "version": "0.0.1",
+  "main": "./epsilon.js",
+  "description": "Abstract Epsilon Greedy algorithm.",
+  "homepage": "https://github.com/tounano/epsilon-greedy/",
+  "author": "ClickHere <js@clickhere.co.il>",
+  "keywords": [
+    "ab testing",
+    "a/b testing",
+    "epsilon",
+    "epsilon greedy"
+  ],
+  "licenses": {
+    "type": "The MIT License",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tounano/epsilon-greedy"
+  },
+  "dependencies": {
+    "underscore": "latest"
+  },
+  "engines": {
+    "node": ">=0.6.11 <=0.7.0 || >=0.7.3"
+  }
+}
